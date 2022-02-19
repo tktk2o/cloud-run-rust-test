@@ -1,0 +1,2 @@
+# deploy
+`gcloud run deploy`
